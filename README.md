@@ -30,7 +30,7 @@
 
 🔹 **[AI Customer Support Bot - MCP Server](https://github.com/ChiragPatankar/AI-Customer-Support-Bot--MCP-Server)** - *A Model Context Protocol (MCP) server that provides AI-powered customer support using Cursor AI and Glama.ai integration.*  
 🔹 **[Weld Defect Classification](https://github.com/ChiragPatankar/Weld_Defect_Classifier_using_CNN)** - *This project is a deep learning-based system for classifying weld defects using convolutional neural networks (CNNs). The system processes weld images and predicts whether a weld is good or defective, categorizing defects into six different classes.*  
-🔹 **[AML Interface: Recommendations and Predictions]([GitHub URL](https://github.com/ChiragPatankar/Anti-Money-Laundering-Predictions-Recommendations))** - *This Streamlit-based web application provides customer recommendations and predictive insights for Anti-Money Laundering (AML) scenarios. It uses machine learning models to suggest financial products based on customer behavior and predicts churn probability.  
+🔹 **[AML Interface: Recommendations and Predictions](https://github.com/ChiragPatankar/Anti-Money-Laundering-Predictions-Recommendations)** - *This Streamlit-based web application provides customer recommendations and predictive insights for Anti-Money Laundering (AML) scenarios. It uses machine learning models to suggest financial products based on customer behavior and predicts churn probability.*  
 
 > Feel free to explore my repositories and contribute!
 
