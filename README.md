@@ -28,7 +28,7 @@
 
 ## 🔥 Featured Projects
 
-🔹 **[Project Name](GitHub URL)** - *Brief description of what it does.*  
+🔹 **AI Customer Support Bot - MCP Server(https://github.com/ChiragPatankar/AI-Customer-Support-Bot--MCP-Server)** - *A Model Context Protocol (MCP) server that provides AI-powered customer support using Cursor AI and Glama.ai integration.*  
 🔹 **[Another Project](GitHub URL)** - *Explain why it's special (AI-powered, automation, etc.).*  
 🔹 **[Third Project](GitHub URL)** - *What problem does it solve?*  
 
