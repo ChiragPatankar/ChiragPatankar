@@ -29,8 +29,8 @@
 ## 🔥 Featured Projects
 
 🔹 **[AI Customer Support Bot - MCP Server](https://github.com/ChiragPatankar/AI-Customer-Support-Bot--MCP-Server)** - *A Model Context Protocol (MCP) server that provides AI-powered customer support using Cursor AI and Glama.ai integration.*  
-🔹 **[Another Project](GitHub URL)** - *Explain why it's special (AI-powered, automation, etc.).*  
-🔹 **[Third Project](GitHub URL)** - *What problem does it solve?*  
+🔹 **[Weld Defect Classification](https://github.com/ChiragPatankar/Weld_Defect_Classifier_using_CNN)** - *This project is a deep learning-based system for classifying weld defects using convolutional neural networks (CNNs). The system processes weld images and predicts whether a weld is good or defective, categorizing defects into six different classes.*  
+🔹 **[AML Interface: Recommendations and Predictions]([GitHub URL](https://github.com/ChiragPatankar/Anti-Money-Laundering-Predictions-Recommendations))** - *This Streamlit-based web application provides customer recommendations and predictive insights for Anti-Money Laundering (AML) scenarios. It uses machine learning models to suggest financial products based on customer behavior and predicts churn probability.  
 
 > Feel free to explore my repositories and contribute!
 
@@ -45,10 +45,10 @@
 
 ## 📬 How to Reach Me
 
-📫 **Email:** your.email@example.com  
+📫 **Email:** officialchiragp1605@gmail.com  
 🔗 **GitHub:** [github.com/ChiragPatankar](https://github.com/ChiragPatankar)  
-💼 **LinkedIn:** [Your LinkedIn Profile]  
-🌐 **Portfolio:** [Your Website]  
+💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/chirag-patankar-67a55a25b/)  
+🌐 **Services-website:** [The Webnect](https://thewebnect1605.netlify.app/) 
 
 ---
 
