@@ -22,7 +22,7 @@
 🌐 **Web Development:** HTML, CSS, JavaScript, React, Flask  
 💾 **Databases:** MySQL, Firebase, MongoDB  
 ☁ **Cloud & DevOps:** AWS, Docker, GitHub Actions  
-🔧 **Other Tools:** Git, LaTeX, Blender, Power BI  
+🔧 **Other Tools:** Git, LaTeX, Blender, Power BI, Streamlit, Gradio, Docker 
 
 ---
 
