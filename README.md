@@ -11,7 +11,7 @@ I'm a passionate **AI enthusiast** and **data scientist** who loves building int
 - 🤖 **Currently Building**: AI-powered applications with cutting-edge ML techniques
 - 🌱 **Learning**: Advanced ML algorithms, OpenAI APIs, and Cloud DevOps
 - 💼 **Open to**: Collaborations on AI projects, freelance work, and exciting internships
-- 🎮 **Beyond Code**: Gaming, filmmaking, open source contributions, and Blender animations
+- 🎮 **Beyond Code**: Video Editing, filmmaking, open source contributions, and Blender animations
 
 ## 🛠️ Tech Arsenal
 
