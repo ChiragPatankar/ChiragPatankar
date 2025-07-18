@@ -62,13 +62,6 @@ Streamlit-based web application providing intelligent customer recommendations a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragPatankar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🎯 2025 Goals
-
-- 🚀 Launch 3 AI-powered SaaS applications
-- 📚 Master advanced MLOps and cloud-native architectures  
-- 🌐 Contribute to major open-source AI projects
-- 💼 Build [The Webnect](https://thewebnect1605.netlify.app/) into a leading web development agency
-
 ## 🤝 Let's Connect!
 
 <div align="center">
