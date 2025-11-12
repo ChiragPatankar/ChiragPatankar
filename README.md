@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%7C+Data+Scientist;Freelance+Web+Developer;Building+AI-Powered+Solutions;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
 ## 🚀 About Me
 
 I'm a passionate **AI enthusiast** and **data scientist** who loves building intelligent solutions that make a real impact. When I'm not training models or analyzing data, you'll find me crafting scalable web applications and exploring the latest in cloud computing.
@@ -12,6 +16,10 @@ I'm a passionate **AI enthusiast** and **data scientist** who loves building int
 - 🌱 **Learning**: Advanced ML algorithms, OpenAI APIs, and Cloud DevOps
 - 💼 **Open to**: Collaborations on AI projects, freelance work, and exciting internships
 - 🎮 **Beyond Code**: Video Editing, filmmaking, open source contributions, and Blender animations
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</div>
 
 ## 🛠️ Tech Arsenal
 
@@ -40,6 +48,10 @@ I'm a passionate **AI enthusiast** and **data scientist** who loves building int
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
 ## 🌟 Featured Projects
 
 ### 🤖 [AI Customer Support Bot - MCP Server](https://github.com/ChiragPatankar/AI-Customer-Support-Bot--MCP-Server)
@@ -51,15 +63,34 @@ Deep learning-powered weld defect detection system using CNNs. Processes weld im
 ### 💰 [AML Interface: Recommendations & Predictions](https://github.com/ChiragPatankar/Anti-Money-Laundering-Predictions-Recommendations)
 Streamlit-based web application providing intelligent customer recommendations and predictive insights for Anti-Money Laundering scenarios. Features ML-driven product suggestions and churn probability predictions.
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiragPatankar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragPatankar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ChiragPatankar&show_icons=true&count_private=true&hide_border=true&title_color=2E97F7&icon_color=2E97F7&text_color=c9d1d9&bg_color=0d1117" alt="Chirag Patankar github stats" /> 
+  
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragPatankar&theme=react&border=61dafb&hide_border=true&background=0d1117&stroke=61dafb&ring=2E97F7&fire=2E97F7&currStreakLabel=2E97F7" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragPatankar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiragPatankar&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%">
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragPatankar&layout=compact&hide_border=true&title_color=2E97F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChiragPatankar&theme=tokyonight&utcOffset=5.5" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChiragPatankar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 </div>
 
 ## 🤝 Let's Connect!
@@ -71,6 +102,10 @@ Streamlit-based web application providing intelligent customer recommendations a
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://thewebnect1605.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChiragPatankar)
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
 </div>
 
 ---
@@ -86,3 +121,5 @@ Streamlit-based web application providing intelligent customer recommendations a
 <div align="center">
   <b>⭐ Thanks for visiting! Let's build something amazing together! ⭐</b>
 </div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
