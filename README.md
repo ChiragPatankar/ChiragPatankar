@@ -76,13 +76,13 @@ Streamlit-based web application providing intelligent customer recommendations a
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiragPatankar&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%">
+  <img src="https://github-contribution-graph.ez4o.com/?username=ChiragPatankar&theme=github-dark" width="100%">
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragPatankar&layout=compact&hide_border=true&title_color=2E97F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
   
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChiragPatankar&theme=tokyonight&utcOffset=5.5" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=ChiragPatankar&theme=tokyonight&hide_border=true&background=0d1117&ring=2E97F7&fire=2E97F7&currStreakLabel=2E97F7" />
 </div>
 
 <div align="center">
