@@ -75,15 +75,15 @@ Streamlit-based web application providing intelligent customer recommendations a
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragPatankar&theme=react&border=61dafb&hide_border=true&background=0d1117&stroke=61dafb&ring=2E97F7&fire=2E97F7&currStreakLabel=2E97F7" />
 </div>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/2E97F7/ChiragPatankar" alt="GitHub Contribution Chart" width="100%">
-</div>
+<br/>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragPatankar&layout=compact&hide_border=true&title_color=2E97F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
   
-  <img width="49%" src="https://streak-stats.demolab.com/?user=ChiragPatankar&theme=tokyonight&hide_border=true&background=0d1117&ring=2E97F7&fire=2E97F7&currStreakLabel=2E97F7" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChiragPatankar&layout=compact&hide_border=true&title_color=2E97F7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ChiragPatankar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
