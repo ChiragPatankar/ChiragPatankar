@@ -76,7 +76,7 @@ Streamlit-based web application providing intelligent customer recommendations a
 </div>
 
 <div align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=ChiragPatankar&theme=github-dark" width="100%">
+  <img src="https://ghchart.rshah.org/2E97F7/ChiragPatankar" alt="GitHub Contribution Chart" width="100%">
 </div>
 
 <div align="center">
