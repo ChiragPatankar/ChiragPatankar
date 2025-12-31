@@ -67,34 +67,28 @@ Streamlit-based web application providing intelligent customer recommendations a
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
+
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ChiragPatankar&show_icons=true&count_private=true&hide_border=true&title_color=2E97F7&icon_color=2E97F7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Chirag's GitHub Stats" /> 
-  <!-- GitHub Streak Stats -->
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragPatankar&theme=react&border=61dafb&hide_border=true&background=0d1117&stroke=61dafb&ring=2E97F7&fire=2E97F7&currStreakLabel=2E97F7" alt="Chirag's Streak Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ChiragPatankar&show_icons=true&count_private=true&hide_border=true&title_color=2E97F7&icon_color=2E97F7&text_color=c9d1d9&bg_color=0d1117" alt="Chirag Patankar github stats" /> 
+  
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragPatankar&theme=react&border=61dafb&hide_border=true&background=0d1117&stroke=61dafb&ring=2E97F7&fire=2E97F7&currStreakLabel=2E97F7" />
 </div>
+
 <br/>
+
 <div align="center">
-  <!-- Top Languages -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragPatankar&layout=compact&hide_border=true&title_color=2E97F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-  <!-- Activity Graph -->
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChiragPatankar&bg_color=0d1117&color=2E97F7&line=2E97F7&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragPatankar&layout=compact&hide_border=true&title_color=2E97F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChiragPatankar&layout=compact&hide_border=true&title_color=2E97F7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
 <br/>
-<!-- GitHub Trophies -->
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChiragPatankar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChiragPatankar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </div>
-<br/>
-<!-- Contribution Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChiragPatankar/ChiragPatankar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChiragPatankar/ChiragPatankar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChiragPatankar/ChiragPatankar/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 </div>
