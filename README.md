@@ -1,70 +1,94 @@
-# Hey there, I'm Chirag Patankar! 👋
+# Hey, I'm Chirag Patankar 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%7C+Data+Scientist;Freelance+Web+Developer;Building+AI-Powered+Solutions;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=700&lines=Forward+Deployed+Engineer+%7C+AI+%26+Full-Stack;I+embed+with+customers+and+ship+production+AI;RAG+Systems+%7C+Agentic+Tools+%7C+MCP+Servers;Patent-Holder+%7C+Published+Researcher+%7C+Builder" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 🚀 About Me
+## 🎯 About Me
 
-I'm a passionate **AI enthusiast** and **data scientist** who loves building intelligent solutions that make a real impact. When I'm not training models or analyzing data, you'll find me crafting scalable web applications and exploring the latest in cloud computing.
+I'm a final-year **AI & Data Science engineer** (SAKEC, Mumbai, Class of 2026) who operates like a Forward Deployed Engineer already — I sit close to the problem, ship working software fast, and iterate directly with the people who'll use it. Under my freelance practice, **BuildVerse Studio**, I've taken AI systems from a blank repo to production for real clients, not just notebooks.
 
-- 🤖 **Currently Building**: AI-powered applications with cutting-edge ML techniques
-- 🌱 **Learning**: Advanced ML algorithms, OpenAI APIs, and Cloud DevOps
-- 💼 **Open to**: Collaborations on AI projects, freelance work, and exciting internships
-- 🎮 **Beyond Code**: Video Editing, filmmaking, open source contributions, and Blender animations
+- 🛠️ **What I actually do**: parachute into a messy, ambiguous problem, scope it, and ship a working AI/software solution — end to end, client-facing, deadline-real.
+- 🤖 **Currently building**: **CommerceOS**, a multi-marketplace e-commerce operating system (competing with Helium10 / JungleScout / Sellerboard) — architected as a marketplace-agnostic connector system on React/TypeScript + Node.js/Express/PostgreSQL/BullMQ.
+- 📄 **Filed an Indian patent** for a personalized adaptive learning system, and **published a peer-reviewed paper (IJARCCE, 2026)** on a multi-tenant chat support architecture.
+- 🧩 **Open source**: [`loganalyzer-mcp`](https://www.npmjs.com/) — a hardened Model Context Protocol server with multi-provider LLM support and SQLite persistence, published to npm and the Glama.ai directory.
+- 🎙️ **Building in public**: I write a technical LinkedIn series (BuildVerse Studio) on AI debugging, RAG system design, and the FDE career path — because the fastest way to learn deployment is to explain it.
+- 🚀 **Target roles**: Forward Deployed Engineer / AI Engineer / Solutions Engineer at companies like Palantir, Databricks, OpenAI, Anthropic, Scale AI, and Stripe.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
 
-## 🛠️ Tech Arsenal
+## 🧠 Why Forward Deployed Engineering
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🧠 AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+FDE work is customer-facing systems engineering under ambiguity — and that's the pattern across everything below: I've built a multi-tenant RAG platform with validated cross-tenant data isolation for a real customer, shipped a scraping + Streamlit product end-to-end, and I'm currently designing a 27-section production spec (CommerceOS) with a 196-step build roadmap before writing a line of application code. I default to reading the client's real workflow, then building the smallest system that actually solves it — and staying in the loop until it works in their hands.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
-## 🌟 Featured Projects
+## 🛠️ Tech Arsenal
 
-### 🤖 [AI Customer Support Bot - MCP Server](https://github.com/ChiragPatankar/AI-Customer-Support-Bot--MCP-Server)
-A sophisticated Model Context Protocol (MCP) server delivering AI-powered customer support through Cursor AI and Glama.ai integration. Built for seamless customer interaction automation.
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🔧 [Weld Defect Classification](https://github.com/ChiragPatankar/Weld_Defect_Classifier_using_CNN)
-Deep learning-powered weld defect detection system using CNNs. Processes weld images and classifies defects into six categories with high accuracy, revolutionizing quality control in manufacturing.
+### 🤖 AI / ML & Agentic Systems
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-2E97F7?style=for-the-badge&logoColor=white)
 
-### 💰 [AML Interface: Recommendations & Predictions](https://github.com/ChiragPatankar/Anti-Money-Laundering-Predictions-Recommendations)
-Streamlit-based web application providing intelligent customer recommendations and predictive insights for Anti-Money Laundering scenarios. Features ML-driven product suggestions and churn probability predictions.
+### 🌐 Full-Stack & Deployment (what makes an FDE ship)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🗄️ Data, Infra & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+## 🌟 Featured Projects
+
+### 🧩 CommerceOS — Multi-Marketplace E-Commerce OS *(in active build)*
+A production-grade competitor to Helium10 / JungleScout / Sellerboard, designed around a marketplace-agnostic connector architecture (React/TypeScript + Node.js/Express/PostgreSQL/BullMQ). Backed by a 27-section, ~142KB technical spec and a 196-prompt phased implementation roadmap — the kind of upfront systems design an FDE does before touching customer data.
+
+### 🔧 [`loganalyzer-mcp`](https://github.com/ChiragPatankar) — Open-Source MCP Server
+A hardened Model Context Protocol server with multi-provider LLM support, SQLite persistence, and robust JSON extraction — published to **npm** and the **Glama.ai** directory. Built to plug straight into Cursor/Claude workflows, which is exactly the kind of tool-integration work FDEs live in.
+
+### 🤖 [AI Customer Support Bot — MCP Server](https://github.com/ChiragPatankar/AI-Customer-Support-Bot--MCP-Server)
+A multi-tenant RAG customer support platform with **validated cross-tenant data isolation** — the security property that matters most when you're deploying one codebase across multiple enterprise customers. Delivered through Cursor AI / Glama.ai integration for real customer interaction automation. Also the basis of a peer-reviewed IJARCCE publication (2026).
+
+### 🕸️ Noon.com Marketplace Scraper + Streamlit App
+Production scraping pipeline (Playwright + BeautifulSoup, with XHR interception) feeding a Streamlit front end — the "get messy real-world data into a usable product fast" work that's a daily reality in FDE engagements.
+
+### 🔧 [Weld Defect Classification](https://github.com/ChiragPatankar/Weld_Defect_Classifier_using_CNN)
+CNN-based defect detection classifying weld images into six defect categories — applied deep learning aimed at a real manufacturing quality-control workflow.
+
+### 💰 [AML Interface: Recommendations & Predictions](https://github.com/ChiragPatankar/Anti-Money-Laundering-Predictions-Recommendations)
+Streamlit app delivering ML-driven product recommendations and churn/risk predictions for Anti-Money-Laundering scenarios — a domain-specific, compliance-adjacent deployment.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 </div>
 
 ## 📊 GitHub Stats
@@ -93,7 +117,7 @@ Streamlit-based web application providing intelligent customer recommendations a
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 </div>
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <div align="center">
   
@@ -115,11 +139,7 @@ Streamlit-based web application providing intelligent customer recommendations a
 </div>
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House
-</div>
-
-<div align="center">
-  <b>⭐ Thanks for visiting! Let's build something amazing together! ⭐</b>
+  <i>Recruiters looking for an FDE: the résumé bullet points are above — the commit history below is the proof.</i>
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
