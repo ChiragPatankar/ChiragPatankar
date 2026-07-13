@@ -94,17 +94,17 @@ Streamlit app delivering ML-driven product recommendations and churn/risk predic
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ChiragPatankar&show_icons=true&count_private=true&hide_border=true&title_color=2E97F7&icon_color=2E97F7&text_color=c9d1d9&bg_color=0d1117" alt="Chirag Patankar github stats" /> 
+  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=ChiragPatankar&show_icons=true&count_private=true&hide_border=true&title_color=2E97F7&icon_color=2E97F7&text_color=c9d1d9&bg_color=0d1117" alt="Chirag Patankar github stats" /> 
   
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragPatankar&theme=react&border=61dafb&hide_border=true&background=0d1117&stroke=61dafb&ring=2E97F7&fire=2E97F7&currStreakLabel=2E97F7" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=ChiragPatankar&theme=react&border=61dafb&hide_border=true&background=0d1117&stroke=61dafb&ring=2E97F7&fire=2E97F7&currStreakLabel=2E97F7" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragPatankar&layout=compact&hide_border=true&title_color=2E97F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ChiragPatankar&layout=compact&hide_border=true&title_color=2E97F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChiragPatankar&layout=compact&hide_border=true&title_color=2E97F7&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/wakatime?username=ChiragPatankar&layout=compact&hide_border=true&title_color=2E97F7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <br/>
