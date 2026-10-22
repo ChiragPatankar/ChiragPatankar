@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 
-I'm a **Master's student at Northeastern University (Seattle)** and an **AI & Data Science engineer** (B.E., SAKEC Mumbai, 2026) who operates like a Forward Deployed Engineer already — I sit close to the problem, ship working software fast, and iterate directly with the people who'll use it. Under my freelance practice, **BuildVerse Studio**, I've taken AI systems from a blank repo to production for real clients, not just notebooks.
+I'm an **MS in Artificial Intelligence student at Northeastern University (Seattle)** and an **AI & Data Science engineer** (B.E., SAKEC Mumbai, 2026) who operates like a Forward Deployed Engineer already — I sit close to the problem, ship working software fast, and iterate directly with the people who'll use it. Under my freelance practice, **BuildVerse Studio**, I've taken AI systems from a blank repo to production for real clients, not just notebooks.
 
 - 🛠️ **What I actually do**: parachute into a messy, ambiguous problem, scope it, and ship a working AI/software solution — end to end, client-facing, deadline-real.
 - 🤖 **Currently building**: **CommerceOS**, a multi-marketplace e-commerce operating system (competing with Helium10 / JungleScout / Sellerboard) — architected as a marketplace-agnostic connector system on React/TypeScript + Node.js/Express/PostgreSQL/BullMQ.
