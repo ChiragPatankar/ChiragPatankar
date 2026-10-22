@@ -10,14 +10,14 @@
 
 ## 🎯 About Me
 
-I'm an **MS in Artificial Intelligence student at Northeastern University (Seattle)** and an **AI & Data Science engineer** (B.E., SAKEC Mumbai, 2026) who operates like a Forward Deployed Engineer already — I sit close to the problem, ship working software fast, and iterate directly with the people who'll use it. Under my freelance practice, **BuildVerse Studio**, I've taken AI systems from a blank repo to production for real clients, not just notebooks.
+I'm an **MS in Artificial Intelligence student at Northeastern University (Seattle)** and an **AI & Data Science engineer** (B.E., SAKEC Mumbai, 2026) who operates like a Forward Deployed Engineer already — I sit close to the problem, ship working software fast, and iterate directly with the people who'll use it. Through my startup, **BuildVerse Studio**, I've taken AI systems from a blank repo to production for real clients, not just notebooks.
 
 - 🛠️ **What I actually do**: parachute into a messy, ambiguous problem, scope it, and ship a working AI/software solution — end to end, client-facing, deadline-real.
 - 🤖 **Currently building**: **CommerceOS**, a multi-marketplace e-commerce operating system (competing with Helium10 / JungleScout / Sellerboard) — architected as a marketplace-agnostic connector system on React/TypeScript + Node.js/Express/PostgreSQL/BullMQ.
 - 📄 **Filed an Indian patent** for a personalized adaptive learning system, and **published a peer-reviewed paper (IJARCCE, 2026)** on a multi-tenant chat support architecture.
 - 🩺 **Open source**: [`flake-doctor`](https://github.com/ChiragPatankar/Flake-doctor) — finds the flaky tests hiding in a project's CI history; on [PyPI](https://pypi.org/project/flake-doctor/) and the [GitHub Marketplace](https://github.com/marketplace/actions/flake-doctor-flaky-test-report). It found real issues in **pydantic**, one of which I fixed upstream ([#14050](https://github.com/pydantic/pydantic/pull/14050), merged).
 - 🧩 **Also open source**: [`loganalyzer-mcp`](https://www.npmjs.com/package/loganalyzer-mcp) — a hardened Model Context Protocol server with multi-provider LLM support and SQLite persistence, published to npm and the Glama.ai directory.
-- 🎙️ **Building in public**: I write a technical LinkedIn series (BuildVerse Studio) on AI debugging, RAG system design, and the FDE career path — because the fastest way to learn deployment is to explain it.
+- 🎙️ **Building in public**: I write a technical LinkedIn series on AI debugging, RAG system design, and the FDE career path — because the fastest way to learn deployment is to explain it.
 - 🚀 **Target roles**: Forward Deployed Engineer / AI Engineer / Solutions Engineer at companies like Palantir, Databricks, OpenAI, Anthropic, Scale AI, and Stripe.
 
 <div align="center">
