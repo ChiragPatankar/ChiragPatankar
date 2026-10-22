@@ -104,10 +104,6 @@ Streamlit app delivering ML-driven product recommendations and churn/risk predic
 | [pydantic](https://github.com/pydantic/pydantic) | **Merged** [#14050](https://github.com/pydantic/pydantic/pull/14050): stabilised parametrized test IDs in pydantic-core (a random UUID gave a test a new name every run), found by flake-doctor's collection-time check |
 | [pydantic](https://github.com/pydantic/pydantic) | **Reported** [#14030](https://github.com/pydantic/pydantic/issues/14030): date tests that failed whenever CI ran across midnight UTC; confirmed and fixed in [#14031](https://github.com/pydantic/pydantic/pull/14031) |
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
