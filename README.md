@@ -1,7 +1,7 @@
 # Hey, I'm Chirag Patankar 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=700&lines=Forward+Deployed+Engineer+%7C+AI+%26+Full-Stack;I+embed+with+customers+and+ship+production+AI;RAG+Systems+%7C+Agentic+Tools+%7C+MCP+Servers;Patent-Holder+%7C+Published+Researcher+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=700&lines=Forward+Deployed+Engineer+%7C+AI+%26+Full-Stack;I+embed+with+customers+and+ship+production+AI;Built+flake-doctor+%7C+pydantic+contributor;RAG+Systems+%7C+Agentic+Tools+%7C+MCP+Servers;Patent-Holder+%7C+Published+Researcher+%7C+Builder" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,12 +10,13 @@
 
 ## 🎯 About Me
 
-I'm a final-year **AI & Data Science engineer** (SAKEC, Mumbai, Class of 2026) who operates like a Forward Deployed Engineer already — I sit close to the problem, ship working software fast, and iterate directly with the people who'll use it. Under my freelance practice, **BuildVerse Studio**, I've taken AI systems from a blank repo to production for real clients, not just notebooks.
+I'm a **Master's student at Northeastern University (Seattle)** and an **AI & Data Science engineer** (B.E., SAKEC Mumbai, 2026) who operates like a Forward Deployed Engineer already — I sit close to the problem, ship working software fast, and iterate directly with the people who'll use it. Under my freelance practice, **BuildVerse Studio**, I've taken AI systems from a blank repo to production for real clients, not just notebooks.
 
 - 🛠️ **What I actually do**: parachute into a messy, ambiguous problem, scope it, and ship a working AI/software solution — end to end, client-facing, deadline-real.
 - 🤖 **Currently building**: **CommerceOS**, a multi-marketplace e-commerce operating system (competing with Helium10 / JungleScout / Sellerboard) — architected as a marketplace-agnostic connector system on React/TypeScript + Node.js/Express/PostgreSQL/BullMQ.
 - 📄 **Filed an Indian patent** for a personalized adaptive learning system, and **published a peer-reviewed paper (IJARCCE, 2026)** on a multi-tenant chat support architecture.
-- 🧩 **Open source**: [`loganalyzer-mcp`](https://www.npmjs.com/) — a hardened Model Context Protocol server with multi-provider LLM support and SQLite persistence, published to npm and the Glama.ai directory.
+- 🩺 **Open source**: [`flake-doctor`](https://github.com/ChiragPatankar/Flake-doctor) — finds the flaky tests hiding in a project's CI history; on [PyPI](https://pypi.org/project/flake-doctor/) and the [GitHub Marketplace](https://github.com/marketplace/actions/flake-doctor-flaky-test-report). It found real issues in **pydantic**, one of which I fixed upstream ([#14050](https://github.com/pydantic/pydantic/pull/14050), merged).
+- 🧩 **Also open source**: [`loganalyzer-mcp`](https://www.npmjs.com/package/loganalyzer-mcp) — a hardened Model Context Protocol server with multi-provider LLM support and SQLite persistence, published to npm and the Glama.ai directory.
 - 🎙️ **Building in public**: I write a technical LinkedIn series (BuildVerse Studio) on AI debugging, RAG system design, and the FDE career path — because the fastest way to learn deployment is to explain it.
 - 🚀 **Target roles**: Forward Deployed Engineer / AI Engineer / Solutions Engineer at companies like Palantir, Databricks, OpenAI, Anthropic, Scale AI, and Stripe.
 
@@ -69,10 +70,15 @@ FDE work is customer-facing systems engineering under ambiguity — and that's t
 
 ## 🌟 Featured Projects
 
+### 🩺 [`flake-doctor`](https://github.com/ChiragPatankar/Flake-doctor) — Find the flaky tests hiding in your CI history
+[![PyPI](https://img.shields.io/pypi/v/flake-doctor)](https://pypi.org/project/flake-doctor/) [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-flake--doctor-blue?logo=github)](https://github.com/marketplace/actions/flake-doctor-flaky-test-report)
+
+An open-source tool that mines GitHub Actions history for direct evidence of flakiness (jobs that failed and then passed on the same commit), separates flaky tests from real regressions and dependency breakages, diagnoses causes with controlled reruns and polluting-test bisection, and statically finds values pytest evaluates at collection time (like `date.today()` in `parametrize`) before they ever fail. On a month of CI it found 7 flaky tests each in pydantic and aiohttp, and correctly flagged none in fastapi and pandas. Ships as a CLI, a GitHub Action and a Claude Code plugin.
+
 ### 🧩 CommerceOS — Multi-Marketplace E-Commerce OS *(in active build)*
 A production-grade competitor to Helium10 / JungleScout / Sellerboard, designed around a marketplace-agnostic connector architecture (React/TypeScript + Node.js/Express/PostgreSQL/BullMQ). Backed by a 27-section, ~142KB technical spec and a 196-prompt phased implementation roadmap — the kind of upfront systems design an FDE does before touching customer data.
 
-### 🔧 [`loganalyzer-mcp`](https://github.com/ChiragPatankar) — Open-Source MCP Server
+### 🔧 [`loganalyzer-mcp`](https://github.com/ChiragPatankar/loganalyzer-mcp) — Open-Source MCP Server
 A hardened Model Context Protocol server with multi-provider LLM support, SQLite persistence, and robust JSON extraction — published to **npm** and the **Glama.ai** directory. Built to plug straight into Cursor/Claude workflows, which is exactly the kind of tool-integration work FDEs live in.
 
 ### 🤖 [AI Customer Support Bot — MCP Server](https://github.com/ChiragPatankar/AI-Customer-Support-Bot--MCP-Server)
@@ -91,6 +97,17 @@ Streamlit app delivering ML-driven product recommendations and churn/risk predic
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 </div>
 
+## 🤝 Open-Source Contributions
+
+| Project | Contribution |
+|---------|--------------|
+| [pydantic](https://github.com/pydantic/pydantic) | **Merged** [#14050](https://github.com/pydantic/pydantic/pull/14050): stabilised parametrized test IDs in pydantic-core (a random UUID gave a test a new name every run), found by flake-doctor's collection-time check |
+| [pydantic](https://github.com/pydantic/pydantic) | **Reported** [#14030](https://github.com/pydantic/pydantic/issues/14030): date tests that failed whenever CI ran across midnight UTC; confirmed and fixed in [#14031](https://github.com/pydantic/pydantic/pull/14031) |
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -103,8 +120,7 @@ Streamlit app delivering ML-driven product recommendations and churn/risk predic
 
 <div align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ChiragPatankar&layout=compact&hide_border=true&title_color=2E97F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-  
-  
+</div>
 
 <br/>
 
